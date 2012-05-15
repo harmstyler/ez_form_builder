@@ -12,6 +12,9 @@ CREATE TABLE `ez_forms_builder` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+-- ----------------------------
+--  Table structure for `ez_form_builder_attribute_link`
+-- ----------------------------
 CREATE TABLE `ez_form_builder_attribute_link` (
   `id` int(11) NOT NULL auto_increment,
   `form_id` int(11) NOT NULL default '0',
