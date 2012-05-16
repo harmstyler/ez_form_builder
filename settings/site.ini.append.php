@@ -1,8 +1,8 @@
 <?php /* #?ini charset="utf-8"?
 
 [TemplateSettings]
-ExtensionAutoloadPath[]=eztags
+ExtensionAutoloadPath[]=ezforms
 
 [RegionalSettings]
-TranslationExtensions[]=eztags
+TranslationExtensions[]=ezforms
 */ ?>

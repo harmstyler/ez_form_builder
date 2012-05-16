@@ -2,5 +2,5 @@
 
 [DataTypeSettings]
 ExtensionDirectories[]=ezformbuilder
-AvailableDataTypes[]=ezformbuilder
+AvailableDataTypes[]=ezforms
 */ ?>

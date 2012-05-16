@@ -2,5 +2,5 @@
 
 [ModuleSettings]
 ExtensionRepositories[]=ezformbuider
-ModuleList[]=forms
+ModuleList[]=ezforms
 */ ?>

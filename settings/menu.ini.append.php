@@ -1,15 +1,15 @@
 <?php /* #?ini charset="utf-8"?
 
 [NavigationPart]
-Part[eztagsnavigationpart]=eZFormBuilder
+Part[eztagsnavigationpart]=eZForms
 
 [TopAdminMenu]
-Tabs[]=ezformbuilder
+Tabs[]=ezforms
 
-[Topmenu_ezformbuilder]
-NavigationPartIdentifier=ezformbuildersnavigationpart
-Name=eZ Form Builder
-Tooltip=eZ Form Builder dashboard
+[Topmenu_ezforms]
+NavigationPartIdentifier=ezformsnavigationpart
+Name=eZ Forms
+Tooltip=eZ Forms
 URL[]
 URL[default]=forms/dashboard
 Enabled[]
